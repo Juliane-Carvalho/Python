@@ -12,4 +12,4 @@
   - Repositório: https://github.com/Juliane-Carvalho/Python
 
 ## Autora
- **Juliane Cristina de Carvalho Brito*: @Juliane-Carvalho (https://github.com/Juliane-Carvalho
+ *Juliane Cristina de Carvalho Brito*: @Juliane-Carvalho (https://github.com/Juliane-Carvalho
