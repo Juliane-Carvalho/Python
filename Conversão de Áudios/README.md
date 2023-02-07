@@ -1,4 +1,4 @@
-## Projeto desenvolvido por Juliane Carvalho para a disciplina Introdução à Engenharia da Computação (UFBA).
+## Projeto de conversão de áudio desenvolvido para a disciplina Introdução à Engenharia da Computação (UFBA).
 
 ## Funcionamento:
   - Buscar arquivos de música .wav em diretório especificado
